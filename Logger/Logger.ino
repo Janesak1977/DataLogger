@@ -22,7 +22,7 @@
 #define VersionMINORLo 5
 
 
-//#define ITPLUS_DEBUG_FRAME
+#define ITPLUS_DEBUG_FRAME
 //#define ITPLUS_DEBUG
 //#define RF12_DEBUG
 //#define DEBUG_ETH 1
