@@ -18,8 +18,8 @@
 // Version Number
 //**************************************************************
 #define VersionMAJOR 1
-#define VersionMINORHi 3
-#define VersionMINORLo 5
+#define VersionMINORHi 4
+#define VersionMINORLo 0
 
 
 #define ITPLUS_DEBUG_FRAME
